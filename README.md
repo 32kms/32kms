@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">¡Hola! Soy Andrés Vera  <img src="https://media.giphy.com/media/hvRJCLFzcasnnD0zKvf/giphy.gif" width="28px" height="28px" alt="Hola"> </h1>
 
 <p align="center">Soy un <strong>Ingeniero en Informática</strong>, apasionado por la programación y especializado en desarrollo backend con .NET. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades. </p>
@@ -37,5 +37,5 @@ Estoy particularmente interesado en el desarrollo backend y la arquitectura de s
 ## ¡Conectemos!
 
 Estoy abierto a nuevas oportunidades y colaboraciones. No dudes en contactarme si tienes alguna pregunta o proyecto en mente. 😊
-```
+
 
