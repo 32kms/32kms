@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2024/09/28/09/05/09-05-38-129_1280.png" alt="Banner de Bienvenida" style="width:100%;">
+<img src="https://i.imgur.com/ZZAKDrw.png" alt="Banner de Bienvenida" style="width:100%;">
 
 <h1 align="center">Hello! I'm 32kms</h1>
 <h3 align="center">Passionate computer science engineer with a deep curiosity for the latest technologies. I specialize in developing innovative, high-quality solutions that enhance people's lives and showcase the best of modern technology. 🚀</h3>
